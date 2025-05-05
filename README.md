@@ -24,4 +24,4 @@ To view or edit the balance sheet locally:
 
 Clone the repository:
 
-git clone https://github.com/your-username/Balance-sheet.git
+> git clone https://github.com/your-username/Balance-sheet.git
